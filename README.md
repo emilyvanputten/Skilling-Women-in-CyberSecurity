@@ -16,3 +16,6 @@ Nevertheless, it can help to go through the content again at your own pace, see 
 - Session 2: Describe the capabilities of Microsoft Azure Active Directory, part of Microsoft Entra [Link](https://learn.microsoft.com/en-us/training/paths/describe-capabilities-of-microsoft-identity-access/)
 - Session 3: Describe the capabilities of Microsoft security solutions [Link](https://learn.microsoft.com/en-us/training/paths/describe-capabilities-of-microsoft-security-solutions/)
 - Session 4: Describe the capabilities of Microsoft compliance solutions [Link](https://learn.microsoft.com/en-us/training/paths/describe-capabilities-of-microsoft-compliance-solutions/)
+
+# Exam
+The information about the SC900 exam can be found at: [Link](https://learn.microsoft.com/en-us/certifications/exams/sc-900/)
