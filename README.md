@@ -5,6 +5,8 @@ A button to download the files can be found in the top right corner after select
 - 23-08-2023 - Women in tech security beginnings [Link](https://github.com/emilyvanputten/Skilling-Women-in-CyberSecurity/blob/main/2023.08.23%20-%20Women%20in%20tech%20security%20beginnings.pdf)
 - 30-08-2023 - Showcasing women in cyber roles [Link](https://github.com/emilyvanputten/Skilling-Women-in-CyberSecurity/blob/main/2023.08.30%20-%20Showcasing%20women%20in%20cyber%20roles.pdf)
 
+Unfortunately, we are not allowed to offer the official training materials freely on the internet. Fortunately, the content from these slides can be viewed through the official training materials available on Microsoft Learn. See the resources section below for this.
+
 # Resources
 Throughout the program, we will be instructor-led through all of the study materials of the SC900 (Microsoft Security, Compliance, and Identity Fundamentals) certification, which should eventually get you all set to successfully pass the exam.
 Nevertheless, it can help to go through the content again at your own pace, see below the resources on Microsoft learn, which belong to the individual sessions:
